@@ -65,7 +65,7 @@ public class Main {
 		
 		//go up
 		if(y > 0 && map[x][y-1] != 0) {
-			if(vector != UP) {
+			 if(vector != UP ) {
 				findWay(x, y-1, count+1, UP);
 			}else {
 				findWay(x, y-1, count, UP);
@@ -74,7 +74,7 @@ public class Main {
 		
 		//go down
 		if(y < map[0].length-1 && map[x][y+1] != 0) {
-			if(vector != DOWN) {
+			 if(vector != DOWN) {
 				findWay(x, y+1, count+1, DOWN);
 			}else {
 				findWay(x, y+1, count, DOWN);
@@ -83,7 +83,7 @@ public class Main {
 		
 		//go right
 		if(x < map.length-1 && map[x+1][y] != 0) {
-			if(vector != RIGHT) {
+			 if(vector != RIGHT) {
 				findWay(x+1, y, count+1, RIGHT);
 			}else {
 				findWay(x+1, y, count, RIGHT);
