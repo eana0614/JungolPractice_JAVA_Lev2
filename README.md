@@ -8,3 +8,5 @@ Problem 2. Necklace (o)
 
 Problem 3. Lotto 
 >> Time Limit 
+
+Problem 4. Look Number
