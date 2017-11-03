@@ -12,4 +12,4 @@ Problem 3. Lotto
 
 Problem 4. Look Number [ ! Abandonment ! ]
 
-Problem 5. Domino
+Problem 5. Domino (o)
