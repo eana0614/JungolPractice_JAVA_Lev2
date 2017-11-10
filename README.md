@@ -16,4 +16,6 @@ Problem 4. Look Number
 
 Problem 5. Domino (o)
 
-Problem 6. PERKET
+Problem 6. PERKET (o)
+
+Problem 7. Uniqueness (O)
