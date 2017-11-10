@@ -15,3 +15,5 @@ Problem 4. Look Number
 > Abandonment
 
 Problem 5. Domino (o)
+
+Problem 6. PERKET
