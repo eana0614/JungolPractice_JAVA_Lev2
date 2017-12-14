@@ -19,3 +19,6 @@ Problem 5. Domino (o)
 Problem 6. PERKET (o)
 
 Problem 7. Uniqueness (O)
+
+Problem 8. Window Management
+> 60% correct, This need resolution of large range of arrays.
