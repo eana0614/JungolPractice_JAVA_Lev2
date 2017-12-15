@@ -25,3 +25,5 @@ Problem 8. Window Management
 
 Problem 9. MCS
 >> 90% correct, Time Limit
+
+Problem 10. Relatively Prime
