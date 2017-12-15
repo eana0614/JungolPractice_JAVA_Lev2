@@ -51,7 +51,7 @@ public class Main {
 			count++;
 		}
 
-		//printWindow(window);
+		printWindow(window);
 	}
 
 	private static char[][] createWindow(int init_window_height, int init_window_width, char inside) {
@@ -169,7 +169,7 @@ public class Main {
 					range_h);
 		}
 
-		printWindow(window);
+		//printWindow(window);
 
 		return window;
 	}
